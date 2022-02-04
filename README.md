@@ -1,3 +1,6 @@
+##Projeto criado para estudo do React
+url do template: https://www.figma.com/file/6hi3vdFaZ4mvXktapGnKMI/Music-Player-(Community)?node-id=0%3A1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
